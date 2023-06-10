@@ -1,0 +1,1 @@
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/scripts/gdb/vmlinux-gdb.py

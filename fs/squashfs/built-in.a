@@ -1,0 +1,51 @@
+!<thin>
+//                                              316       `
+block.o/
+cache.o/
+dir.o/
+export.o/
+file.o/
+fragment.o/
+id.o/
+inode.o/
+namei.o/
+super.o/
+symlink.o/
+decompressor.o/
+page_actor.o/
+file_direct.o/
+decompressor_single.o/
+decompressor_multi.o/
+decompressor_multi_percpu.o/
+xattr.o/
+xattr_id.o/
+lz4_wrapper.o/
+lzo_wrapper.o/
+xz_wrapper.o/
+zlib_wrapper.o/
+zstd_wrapper.o/
+
+/0              0           0     0     644     218624    `
+/9              0           0     0     644     166952    `
+/18             0           0     0     644     142864    `
+/25             0           0     0     644     144232    `
+/35             0           0     0     644     283744    `
+/43             0           0     0     644     117288    `
+/55             0           0     0     644     121512    `
+/61             0           0     0     644     181856    `
+/70             0           0     0     644     162680    `
+/79             0           0     0     644     272600    `
+/88             0           0     0     644     167000    `
+/99             0           0     0     644     190880    `
+/115            0           0     0     644     178408    `
+/129            0           0     0     644     168888    `
+/144            0           0     0     644     187384    `
+/167            0           0     0     644     204024    `
+/189            0           0     0     644     195664    `
+/218            0           0     0     644     182088    `
+/227            0           0     0     644     118832    `
+/239            0           0     0     644     200232    `
+/254            0           0     0     644     198408    `
+/269            0           0     0     644     202960    `
+/283            0           0     0     644     194504    `
+/299            0           0     0     644     183056    `

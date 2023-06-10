@@ -1,0 +1,1 @@
+cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep-in.o :=  ld -r -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep-in.o  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o
