@@ -1,4 +1,4 @@
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libbpf/staticobjs/libbpf.o: \
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libbpf/staticobjs/libbpf.o: \
  libbpf.c /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -87,53 +87,53 @@
  /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl2.h /usr/include/errno.h \
  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm/errno.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include/uapi/asm/errno.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/errno.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/errno-base.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm/errno.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include/uapi/asm/errno.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/errno.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h /usr/include/ctype.h \
  /usr/include/x86_64-linux-gnu/asm/unistd.h \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/err.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler_types.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler-gcc.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/err.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler_types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler-gcc.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
  /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include/uapi/asm/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include/uapi/asm/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/bitsperlong.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
  /usr/include/asm-generic/posix_types.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/kernel.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/kernel.h \
  /usr/include/assert.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/build_bug.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/math.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/build_bug.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/math.h \
  /usr/include/byteswap.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/bpf.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/bpf_common.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/btf.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/filter.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/perf_event.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/bpf.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/bpf_common.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/btf.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/filter.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/perf_event.h \
  /usr/include/linux/ioctl.h /usr/include/x86_64-linux-gnu/asm/ioctl.h \
  /usr/include/asm-generic/ioctl.h \
  /usr/include/x86_64-linux-gnu/asm/byteorder.h \
  /usr/include/linux/byteorder/little_endian.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/stddef.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/stddef.h \
  /usr/include/linux/swab.h /usr/include/x86_64-linux-gnu/asm/swab.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/ring_buffer.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm/barrier.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm/../../arch/x86/include/asm/barrier.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/ring_buffer.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm/barrier.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm/../../arch/x86/include/asm/barrier.h \
  /usr/include/x86_64-linux-gnu/sys/epoll.h \
  /usr/include/x86_64-linux-gnu/bits/epoll.h \
  /usr/include/x86_64-linux-gnu/sys/ioctl.h \
  /usr/include/x86_64-linux-gnu/bits/ioctls.h \
  /usr/include/x86_64-linux-gnu/asm/ioctls.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/ioctls.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/ioctls.h \
  /usr/include/x86_64-linux-gnu/bits/ioctl-types.h \
  /usr/include/x86_64-linux-gnu/sys/ttydefaults.h \
  /usr/include/x86_64-linux-gnu/sys/mman.h \
@@ -144,7 +144,7 @@
  /usr/include/x86_64-linux-gnu/bits/mman_ext.h \
  /usr/include/x86_64-linux-gnu/sys/stat.h \
  /usr/include/x86_64-linux-gnu/bits/statx.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/stat.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/stat.h \
  /usr/include/x86_64-linux-gnu/bits/statx-generic.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_statx_timestamp.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_statx.h \

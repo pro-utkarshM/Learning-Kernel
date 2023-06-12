@@ -1,4 +1,4 @@
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/libsubcmd/run-command.o: \
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/libsubcmd/run-command.o: \
  run-command.c /usr/include/stdc-predef.h /usr/include/unistd.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -46,7 +46,7 @@
  /usr/include/x86_64-linux-gnu/bits/stat.h \
  /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
  /usr/include/x86_64-linux-gnu/bits/statx.h /usr/include/linux/stat.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -54,9 +54,9 @@
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
  /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include/uapi/asm/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include/uapi/asm/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/bitsperlong.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
  /usr/include/asm-generic/posix_types.h \
@@ -73,10 +73,10 @@
  /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/string.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/string.h \
  /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
  /usr/include/linux/errno.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include/uapi/asm/errno.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include/uapi/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/x86_64-linux-gnu/sys/wait.h /usr/include/signal.h \

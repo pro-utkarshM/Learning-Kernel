@@ -1,4 +1,4 @@
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/libsubcmd/sigchain.o: \
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/libsubcmd/sigchain.o: \
  sigchain.c /usr/include/stdc-predef.h /usr/include/signal.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \

@@ -1,12 +1,12 @@
-# cannot find fixdep (/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd//fixdep)
+# cannot find fixdep (/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd//fixdep)
 # using basic dep data
 
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/parse-options.o: \
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/parse-options.o: \
  parse-options.c /usr/include/stdc-predef.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler_types.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler-gcc.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler_types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler-gcc.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
@@ -27,12 +27,12 @@
  /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/bitsperlong.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
  /usr/include/asm-generic/posix_types.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/string.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/string.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
@@ -81,10 +81,10 @@
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h /usr/include/ctype.h \
  subcmd-util.h parse-options.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/kernel.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/kernel.h \
  /usr/include/assert.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/build_bug.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/math.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/build_bug.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/math.h \
  /usr/include/byteswap.h subcmd-config.h pager.h
 
-cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/parse-options.o := gcc -Wp,-MD,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/.parse-options.o.d -Wp,-MT,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/parse-options.o -ggdb3 -Wall -Wextra -std=gnu99 -fPIC -O6 -Werror -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/ -Wbad-function-cast -Wdeclaration-after-statement -Wformat-security -Wformat-y2k -Winit-self -Wmissing-declarations -Wmissing-prototypes -Wnested-externs -Wno-system-headers -Wold-style-definition -Wpacked -Wredundant-decls -Wstrict-prototypes -Wswitch-default -Wswitch-enum -Wundef -Wwrite-strings -Wformat -Wno-type-limits -Wstrict-aliasing=3 -Wshadow -D"BUILD_STR(s)=$(pound)s" -c -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/parse-options.o parse-options.c
+cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/parse-options.o := gcc -Wp,-MD,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/.parse-options.o.d -Wp,-MT,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/parse-options.o -ggdb3 -Wall -Wextra -std=gnu99 -fPIC -O6 -Werror -D_LARGEFILE64_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/ -Wbad-function-cast -Wdeclaration-after-statement -Wformat-security -Wformat-y2k -Winit-self -Wmissing-declarations -Wmissing-prototypes -Wnested-externs -Wno-system-headers -Wold-style-definition -Wpacked -Wredundant-decls -Wstrict-prototypes -Wswitch-default -Wswitch-enum -Wundef -Wwrite-strings -Wformat -Wno-type-limits -Wstrict-aliasing=3 -Wshadow -D"BUILD_STR(s)=$(pound)s" -c -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/parse-options.o parse-options.c

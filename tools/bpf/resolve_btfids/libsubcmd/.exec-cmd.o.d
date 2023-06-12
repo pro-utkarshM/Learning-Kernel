@@ -1,9 +1,9 @@
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/exec-cmd.o: \
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/exec-cmd.o: \
  exec-cmd.c /usr/include/stdc-predef.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler_types.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler-gcc.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler_types.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler-gcc.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/types.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
@@ -24,12 +24,12 @@
  /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitsperlong.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitsperlong.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/bitsperlong.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
  /usr/include/asm-generic/posix_types.h \
- /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/string.h \
+ /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/string.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \

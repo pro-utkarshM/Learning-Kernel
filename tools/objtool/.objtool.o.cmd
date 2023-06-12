@@ -1,8 +1,8 @@
-cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o := gcc -Wp,-MD,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/.objtool.o.d -Wp,-MT,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o -Werror -Wbad-function-cast -Wdeclaration-after-statement -Wformat-security -Wformat-y2k -Winit-self -Wmissing-declarations -Wmissing-prototypes -Wnested-externs -Wno-system-headers -Wold-style-definition -Wpacked -Wredundant-decls -Wstrict-prototypes -Wswitch-default -Wswitch-enum -Wundef -Wwrite-strings -Wformat -Wno-type-limits -Wstrict-aliasing=3 -Wshadow -Wno-switch-default -Wno-switch-enum -Wno-packed -Wno-nested-externs -Wall -Wmissing-prototypes -Wstrict-prototypes -O2 -fomit-frame-pointer -std=gnu11 -Wdeclaration-after-statement -g -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include/uapi -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/arch/x86/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/libsubcmd/include -D"BUILD_STR(s)=$(pound)s" -c -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o objtool.c
+cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o := gcc -Wp,-MD,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/.objtool.o.d -Wp,-MT,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o -Werror -Wbad-function-cast -Wdeclaration-after-statement -Wformat-security -Wformat-y2k -Winit-self -Wmissing-declarations -Wmissing-prototypes -Wnested-externs -Wno-system-headers -Wold-style-definition -Wpacked -Wredundant-decls -Wstrict-prototypes -Wswitch-default -Wswitch-enum -Wundef -Wwrite-strings -Wformat -Wno-type-limits -Wstrict-aliasing=3 -Wshadow -Wno-switch-default -Wno-switch-enum -Wno-packed -Wno-nested-externs -Wall -Wmissing-prototypes -Wstrict-prototypes -O2 -fomit-frame-pointer -std=gnu11 -Wdeclaration-after-statement -g -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include/uapi -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/arch/x86/include -I/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/libsubcmd/include -D"BUILD_STR(s)=$(pound)s" -c -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o objtool.c
 
-source_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o := objtool.c
+source_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o := objtool.c
 
-deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o := \
+deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o := \
   /usr/include/stdc-predef.h \
   /usr/include/stdio.h \
   /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
@@ -77,15 +77,15 @@ deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/ob
   /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
   /usr/include/x86_64-linux-gnu/bits/unistd.h \
   /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/libsubcmd/include/subcmd/exec-cmd.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/libsubcmd/include/subcmd/pager.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/kernel.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/libsubcmd/include/subcmd/exec-cmd.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/libsubcmd/include/subcmd/pager.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/kernel.h \
   /usr/include/assert.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/build_bug.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler_types.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/compiler-gcc.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/types.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/build_bug.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler_types.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/compiler-gcc.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/types.h \
   /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h \
   /usr/include/stdint.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h \
@@ -93,21 +93,21 @@ deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/ob
   /usr/include/x86_64-linux-gnu/asm/types.h \
   /usr/include/asm-generic/types.h \
   /usr/include/asm-generic/int-ll64.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/arch/x86/include/uapi/asm/bitsperlong.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitsperlong.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/asm-generic/bitsperlong.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/arch/x86/include/uapi/asm/bitsperlong.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitsperlong.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/asm-generic/bitsperlong.h \
   /usr/include/x86_64-linux-gnu/asm/posix_types.h \
   /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
   /usr/include/asm-generic/posix_types.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/math.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/math.h \
   /usr/include/byteswap.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/include/objtool/builtin.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/libsubcmd/include/subcmd/parse-options.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/include/objtool/objtool.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/list.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/poison.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/hashtable.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/bitops.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/include/objtool/builtin.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/libsubcmd/include/subcmd/parse-options.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/include/objtool/objtool.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/list.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/poison.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/hashtable.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/bitops.h \
   /usr/lib/gcc/x86_64-linux-gnu/12/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/12/include/syslimits.h \
   /usr/include/limits.h \
@@ -117,33 +117,33 @@ deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/ob
   /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
   /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/bits.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/const.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/vdso/const.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/uapi/linux/const.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/vdso/bits.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/__ffs.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/__ffz.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/fls.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/__fls.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/fls64.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/hweight.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/arch_hweight.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/const_hweight.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/atomic.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/asm-generic/bitops/non-atomic.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/hash.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/log2.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/include/objtool/elf.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/bits.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/const.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/vdso/const.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/uapi/linux/const.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/vdso/bits.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/__ffs.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/__ffz.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/fls.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/__fls.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/fls64.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/hweight.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/arch_hweight.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/const_hweight.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/atomic.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/asm-generic/bitops/non-atomic.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/hash.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/log2.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/include/objtool/elf.h \
   /usr/include/gelf.h \
   /usr/include/libelf.h \
   /usr/include/elf.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/rbtree.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/rbtree.h \
   /usr/include/linux/stddef.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/jhash.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/include/linux/unaligned/packed_struct.h \
-  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/include/objtool/warn.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/jhash.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/include/linux/unaligned/packed_struct.h \
+  /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/include/objtool/warn.h \
   /usr/include/x86_64-linux-gnu/sys/stat.h \
   /usr/include/x86_64-linux-gnu/bits/stat.h \
   /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
@@ -152,6 +152,6 @@ deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/ob
   /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
   /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
 
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o: $(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o)
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o: $(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o)
 
-$(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/objtool.o):
+$(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/objtool.o):

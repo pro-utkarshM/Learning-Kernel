@@ -1,8 +1,8 @@
-cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o := gcc -Wp,-MD,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/.fixdep.o.d -Wp,-MT,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o  -D"BUILD_STR(s)=$(pound)s"   -c -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o fixdep.c
+cmd_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o := gcc -Wp,-MD,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/.fixdep.o.d -Wp,-MT,/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o  -D"BUILD_STR(s)=$(pound)s"   -c -o /home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o fixdep.c
 
-source_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o := fixdep.c
+source_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o := fixdep.c
 
-deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o := \
+deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o := \
   /usr/include/stdc-predef.h \
   /usr/include/x86_64-linux-gnu/sys/types.h \
   /usr/include/features.h \
@@ -89,6 +89,6 @@ deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fi
   /usr/include/x86_64-linux-gnu/bits/pthread_stack_min.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
 
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o: $(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o)
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o: $(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o)
 
-$(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/objtool/fixdep.o):
+$(deps_/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/objtool/fixdep.o):

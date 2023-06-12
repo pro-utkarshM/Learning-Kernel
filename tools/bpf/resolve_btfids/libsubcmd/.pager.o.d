@@ -1,4 +1,4 @@
-/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/tools/bpf/resolve_btfids/libsubcmd/pager.o: \
+/home/utkarsh/Documents/Linux-Kernel/newKernel/linux-6.3.6/LearningKernel/tools/bpf/resolve_btfids/libsubcmd/pager.o: \
  pager.c /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/sys/select.h /usr/include/features.h \
  /usr/include/features-time64.h \
